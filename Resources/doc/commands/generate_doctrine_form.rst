@@ -9,7 +9,7 @@ by using the metadata mapping of a given entity class:
 
 .. code-block:: bash
 
-    $ php app/console generate:doctrine:form AcmeBlogBundle:Post
+    $ php bin/console generate:doctrine:form AcmeBlogBundle:Post
 
 Required Arguments
 ------------------
@@ -22,4 +22,4 @@ Required Arguments
 
     .. code-block:: bash
 
-        $ php app/console generate:doctrine:form AcmeBlogBundle:Post
+        $ php bin/console generate:doctrine:form AcmeBlogBundle:Post
